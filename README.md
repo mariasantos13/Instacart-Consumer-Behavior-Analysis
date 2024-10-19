@@ -8,8 +8,8 @@ This project analyzes customer shopping behavior and order data from Instacart t
 
 **Available Notebooks**
 
-- [Análisis del Comportamiento del Consumidor (Español)](https://github.com/mariasantos13/Instacart-Consumer-Behavior-Analysis/blob/main/Ana%CC%81lisis%20Comportamiento.ipynb)
 - [Instacart Purchase Data Analysis (English)](https://github.com/mariasantos13/Instacart-Consumer-Behavior-Analysis/blob/main/Instacart.ipynb)
+- [Análisis del Comportamiento del Consumidor (Español)](https://github.com/mariasantos13/Instacart-Consumer-Behavior-Analysis/blob/main/Ana%CC%81lisis%20Comportamiento.ipynb)
 
 **Key Features**
 
